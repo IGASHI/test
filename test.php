@@ -1,4 +1,6 @@
 <?php
-echo 'aaa'
-
+echo 'aaa';
+exit;
 ?>
+
+
